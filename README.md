@@ -18,15 +18,11 @@ The dashboard was built using Power BI, focusing on interactive visualizations a
 
 --- 
 ## Dashboard Structure
-**Home Page**:
-⋅⋅⋅⋅1. Interactive map displaying sales distribution across U.S. regions.
+1. **Home Page**:
+     -Interactive map displaying sales distribution across U.S. regions
+       - Navigation panel to access:
+       - Products Analysis
+       -  Deep Insights
+       - Time Analysis
 
-- Navigation panel to access:
 
-- Products Analysis
-
-- Deep Insights
-
-- Time Analysis
-
-⋅⋅⋅⋅1. High-level overview of overall performance.

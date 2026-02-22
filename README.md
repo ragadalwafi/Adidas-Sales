@@ -17,12 +17,21 @@ The dashboard was built using Power BI, focusing on interactive visualizations a
 - Enable interactive filtering for dynamic insight generation.
 
 --- 
-## Dashboard Structure
-1. **Home Page**:
-     -Interactive map displaying sales distribution across U.S. regions
-       - Navigation panel to access:
-       - Products Analysis
-       -  Deep Insights
-       - Time Analysis
+## Tools & Technologies
+- Power BI
+
+- Data Modeling
+
+- DAX Calculations
+
+- Time Intelligence Functions
+
+- Interactive Filters & Slicers
+
+---
+## Dashboard Overview 
+[Watch Video](https://github.com/user-attachments/assets/b643dcd4-0bbb-4f97-bbf0-89c62776a9c8)
+
+
 
 
